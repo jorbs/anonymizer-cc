@@ -1,0 +1,8 @@
+prefix=/Users/joaoroberto/Developer/jorbs/anonymizer/cc
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: xtl
+Description: Basic tools (containers, algorithms) used by other quantstack packages.
+Version: 0.6.7
+Cflags: -I${includedir}
