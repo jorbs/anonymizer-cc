@@ -1,6 +1,6 @@
 # Anonymizer
 
-Anonymizer C++ implementation.
+A C++ implementation for [Anonymizer](https://github.com/understand-ai/anonymizer).
 
 ## Default parameters values
 
